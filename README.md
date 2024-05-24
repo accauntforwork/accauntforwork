@@ -1,6 +1,6 @@
  # Salom! 👋
 
-Men [Ismingiz]man, Frontend React dasturchisi.
+Men [Baxtiyorov Muhammadqodir] man, Frontend React dasturchisi.
 
 ![Profile views](https://komarev.com/ghpvc/?username=profilingiz&color=blue)
 
@@ -9,19 +9,20 @@ Men [Ismingiz]man, Frontend React dasturchisi.
 Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan React va boshqa zamonaviy frontend texnologiyalari bilan ishlayman. Mening maqsadim intuitiv, chiroyli va samarali veb ilovalar yaratishdir.
 
 - 🌐 Asosiy texnologiyalar: **React, JavaScript, HTML, CSS**
-- 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Loyihaning nomi](https://loyihaning-linki)
+- 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Loyihaning nomi]([https://loyihaning-linki](https://01-projects.vercel.app))
 - 🌱 Yangi o'rganayotgan texnologiyalar: **TypeScript, Next.js**
-- 💬 Menga murojaat qilishingiz mumkin: [Sizning emailingiz] yoki [LinkedIn profil](https://linkedin.com/in/sizning-linkedin)
+- 💬 Menga murojaat qilishingiz mumkin: [Sizning emailingiz] yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
 
 ## Loyiha va Tajribalar
 
 ### [Loyiha 1 nomi](https://loyihaning-linki)
-![Loyiha 1 skrinshoti](https://loyihaning-skrinshot-linki)
+![![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/cbb1c7ca-c245-4635-a820-3b5a93266083)
+](https://loyihaning-skrinshot-linki)
 
 Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilgansiz va qanday texnologiyalarni qo'llagansiz.
 
 ### [Loyiha 2 nomi](https://loyihaning-linki)
-![Loyiha 2 skrinshoti](https://loyihaning-skrinshot-linki)
+![Loyiha 2 skrinshoti]([https://loyihaning-skrinshot-linki](https://crypto-project-vert.vercel.app/))
 
 Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilgansiz va qanday texnologiyalarni qo'llagansiz.
 
