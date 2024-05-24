@@ -33,9 +33,9 @@ Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilga
 
 ## Statistika
 
-![Sizning GitHub statistikangiz](https://github-readme-stats.vercel.app/api?username=profilingiz&show_icons=true&theme=radical)
+![Sizning GitHub statistikangiz](https://github-readme-stats.vercel.app/api?username=accauntforwork&show_icons=true&theme=radical)
 
-![Eng ko'p foydalanilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=profilingiz&layout=compact&theme=radical)
+![Eng ko'p foydalanilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=accauntforwork&layout=compact&theme=radical)
 
 ## Texnologiyalar
 
