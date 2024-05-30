@@ -4,7 +4,7 @@ Men Baxtiyorov Muhammadqodir man, Frontend React dasturchisi.
 
 ![Profile views](https://komarev.com/ghpvc/?username=accauntforwork&color=blue)
 
-## Haqimda
+## Men Haqimda
 
 Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan React va boshqa zamonaviy frontend texnologiyalari bilan ishlayman. Mening maqsadim intuitiv, chiroyli va samarali veb ilovalar yaratishdir.
 
