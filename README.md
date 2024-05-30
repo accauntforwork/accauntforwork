@@ -1,17 +1,17 @@
  # Salom! 👋
 
-Men [Baxtiyorov Muhammadqodir] man, Frontend React dasturchisi.
+Men Baxtiyorov Muhammadqodir man, Frontend React dasturchisi.
 
-![Profile views](https://komarev.com/ghpvc/?username=profilingiz&color=blue)
+![Profile views](https://komarev.com/ghpvc/?accauntforwork=profilingiz&color=blue)
 
 ## Haqimda
 
 Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan React va boshqa zamonaviy frontend texnologiyalari bilan ishlayman. Mening maqsadim intuitiv, chiroyli va samarali veb ilovalar yaratishdir.
 
 - 🌐 Asosiy texnologiyalar: **React, JavaScript, HTML, CSS**
-- 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Loyihaning nomi]([https://loyihaning-linki](https://01-projects.vercel.app))
+- 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Portfolio]([https://loyihaning-linki](https://01-projects.vercel.app))
 - 🌱 Yangi o'rganayotgan texnologiyalar: **TypeScript, Next.js**
-- 💬 Menga murojaat qilishingiz mumkin: [Sizning emailingiz] yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
+- 💬 Menga murojaat qilishingiz mumkin: [Email: (mailto:m.baxtiyorov001@gmail.com)] yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
 
 ## Loyiha va Tajribalar
 
@@ -21,15 +21,16 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 
 Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilgansiz va qanday texnologiyalarni qo'llagansiz.
 
-### [Loyiha 2 nomi](https://loyihaning-linki)
-![Loyiha 2 skrinshoti]([https://loyihaning-skrinshot-linki](https://crypto-project-vert.vercel.app/))
+### [Shopping cart Typescript](https://shopping-cart-typescript-one.vercel.app/)
+![![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/31ccc0c8-f352-4b40-9b86-a60860aeffe5)
+](https://shopping-cart-typescript-one.vercel.app/)
 
 Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilgansiz va qanday texnologiyalarni qo'llagansiz.
 
 ## Aloqa
 
-- LinkedIn: [Sizning LinkedIn profilingiz](https://linkedin.com/in/sizning-linkedin)
-- Email: [Sizning emailingiz](mailto:sizning-emailingiz)
+- LinkedIn: [Sizning LinkedIn profilingiz](https://linkedin.com/in/mbaxtiyorov)
+- Email: [Sizning emailingiz](mailto:m.baxtiyorov001@gmail.com)
 
 ## Statistika
 
@@ -56,8 +57,5 @@ Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilga
 - 🏆 [Portfolio](https://sizning-portfolio-linkingiz): Mening barcha ishlarimni shu yerda ko'rishingiz mumkin.
 
 ---
-## 𝗦𝘁𝗮𝘁𝘀
-
-![Baxtiyorov-Muhammadqodir's GitHub stats](https://github-readme-stats.vercel.app/api?username=accauntforwork&show_icons=true&theme=transparent)
 
 ⭐️ [Mening GitHub profilingizni kuzatib boring](https://github.com/profilingiz)!
