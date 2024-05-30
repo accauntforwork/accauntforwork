@@ -9,7 +9,7 @@ Men Baxtiyorov Muhammadqodir man, Frontend React dasturchisi.
 Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan React va boshqa zamonaviy frontend texnologiyalari bilan ishlayman. Mening maqsadim intuitiv, chiroyli va samarali veb ilovalar yaratishdir.
 
 - 🌐 Asosiy texnologiyalar: **React, JavaScript, HTML, CSS**
-- 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Portfolio]((https://01-projects.vercel.app)
+- 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Portfolio](https://01-projects.vercel.app)
 - 🌱 Yangi o'rganayotgan texnologiyalar: **TypeScript, Next.js**
 - 💬 Menga murojaat qilishingiz mumkin: [Email](mailto:m.baxtiyorov001@gmail.com) yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
 
