@@ -11,12 +11,12 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 - 🌐 Asosiy texnologiyalar: **React, JavaScript, HTML, CSS**
 - 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Portfolio]([https://loyihaning-linki](https://01-projects.vercel.app))
 - 🌱 Yangi o'rganayotgan texnologiyalar: **TypeScript, Next.js**
-- 💬 Menga murojaat qilishingiz mumkin: [Email] (mailto:m.baxtiyorov001@gmail.com) yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
+- 💬 Menga murojaat qilishingiz mumkin: [Email](mailto:m.baxtiyorov001@gmail.com) yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
 
 ## Loyiha va Tajribalar
 
 ### [Crypto project](https://crypto-project-vert.vercel.app/)
-[![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/de162411-db59-46c1-8d63-cf6b34d86e3d)
+![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/de162411-db59-46c1-8d63-cf6b34d86e3d)
 
 - *DIOGRAMMA UCHUN APEXCHART ISHLATTIM*
 - *Chart bilan chart timeline alohida component va ma’lumot Redux, Redux-toolkit da almashinilgan*
@@ -25,18 +25,21 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 ### [Shopping cart Typescript](https://shopping-cart-typescript-one.vercel.app/)
 ![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/31ccc0c8-f352-4b40-9b86-a60860aeffe5)
 
-Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilgansiz va qanday texnologiyalarni qo'llagansiz.
+- *Pagination qo'shilgan*
+- *Ma'lumotlar CONTEXT API da almashinilgan*
+- *Sceleton qo'shilgan*
 
 ## Aloqa
 
-- LinkedIn: [Sizning LinkedIn profilingiz](https://linkedin.com/in/mbaxtiyorov)
-- Email: [Sizning emailingiz](mailto:m.baxtiyorov001@gmail.com)
+- LinkedIn: [LinkedIn profil](https://linkedin.com/in/mbaxtiyorov)
+- Email: [Email](mailto:m.baxtiyorov001@gmail.com)
+- Telegram: [Sizning emailingiz](https://t.me/baxtiyorov_mq)
 
 ## Statistika
 
-![Sizning GitHub statistikangiz](https://github-readme-stats.vercel.app/api?username=accauntforwork&show_icons=true&theme=radical)
+![Mening GitHub statistikangiz](https://github-readme-stats.vercel.app/api?username=accauntforwork&show_icons=true&theme=radical)
 
-![Eng ko'p foydalanilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=accauntforwork&layout=compact&theme=radical)
+![Men ko'p foydalanilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=accauntforwork&layout=compact&theme=radical)
 
 ## Texnologiyalar
 
