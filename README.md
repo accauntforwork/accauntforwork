@@ -2,7 +2,7 @@
 
 Men Baxtiyorov Muhammadqodir man, Frontend React dasturchisi.
 
-![Profile views](https://komarev.com/ghpvc/?accauntforwork=profilingiz&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=accauntforwork&color=blue)
 
 ## Haqimda
 
@@ -11,19 +11,19 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 - 🌐 Asosiy texnologiyalar: **React, JavaScript, HTML, CSS**
 - 🚀 Hozirgi vaqtda ishlayotgan loyiha: [Portfolio]([https://loyihaning-linki](https://01-projects.vercel.app))
 - 🌱 Yangi o'rganayotgan texnologiyalar: **TypeScript, Next.js**
-- 💬 Menga murojaat qilishingiz mumkin: [Email: (mailto:m.baxtiyorov001@gmail.com)] yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
+- 💬 Menga murojaat qilishingiz mumkin: [Email] (mailto:m.baxtiyorov001@gmail.com) yoki [LinkedIn profil](https://www.linkedin.com/in/mbaxtiyorov)
 
 ## Loyiha va Tajribalar
 
-### [Loyiha 1 nomi](https://loyihaning-linki)
-![![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/cbb1c7ca-c245-4635-a820-3b5a93266083)
-](https://loyihaning-skrinshot-linki)
+### [Crypto project](https://crypto-project-vert.vercel.app/)
+[![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/de162411-db59-46c1-8d63-cf6b34d86e3d)
 
-Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilgansiz va qanday texnologiyalarni qo'llagansiz.
+- *DIOGRAMMA UCHUN APEXCHART ISHLATTIM*
+- *Chart bilan chart timeline alohida component va ma’lumot Redux, Redux-toolkit da almashinilgan*
+- *VA WATCHLIST HAM LOCALSTORAGE VA Redux, Redux-toolkit orqali bajarilgan*
 
 ### [Shopping cart Typescript](https://shopping-cart-typescript-one.vercel.app/)
-![![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/31ccc0c8-f352-4b40-9b86-a60860aeffe5)
-](https://shopping-cart-typescript-one.vercel.app/)
+![image](https://github.com/accauntforwork/accauntforwork/assets/143997480/31ccc0c8-f352-4b40-9b86-a60860aeffe5)
 
 Loyiha haqida qisqacha ma'lumot. Ushbu loyiha bilan qanday muammolarni hal qilgansiz va qanday texnologiyalarni qo'llagansiz.
 
