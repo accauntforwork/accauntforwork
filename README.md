@@ -33,7 +33,7 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 
 - LinkedIn: [LinkedIn profil](https://linkedin.com/in/mbaxtiyorov)
 - Email: [Email](mailto:m.baxtiyorov001@gmail.com)
-- Telegram: [Sizning emailingiz](https://t.me/baxtiyorov_mq)
+- Telegram: [Telegram](https://t.me/baxtiyorov_mq)
 
 ## Statistika
 
