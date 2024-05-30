@@ -56,8 +56,8 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 
 ## Faoliyatlar
 
-- 🎉 [Blog](https://sizning-blogingiz): Men frontend dasturlash haqida maqolalar yozaman.
-- 🏆 [Portfolio](https://sizning-portfolio-linkingiz): Mening barcha ishlarimni shu yerda ko'rishingiz mumkin.
+- 🎉 [Blog](https://01-blog.vercel.app): Men frontend dasturlash haqida maqolalar yozaman.
+- 🏆 [Portfolio](https://01-projects.vercel.app): Mening barcha ishlarimni shu yerda ko'rishingiz mumkin.
 
 ---
 
