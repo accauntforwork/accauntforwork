@@ -37,9 +37,9 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 
 ## Statistika
 
-![Mening GitHub statistikangiz](https://github-readme-stats.vercel.app/api?username=accauntforwork&show_icons=true&theme=radical)
+![Mening GitHub statistikam](https://github-readme-stats.vercel.app/api?username=accauntforwork&show_icons=true&theme=radical)
 
-![Men ko'p foydalanilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=accauntforwork&layout=compact&theme=radical)
+![Men ko'p foydalanadigan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=accauntforwork&layout=compact&theme=radical)
 
 ## Texnologiyalar
 
@@ -56,9 +56,9 @@ Men bir necha yildan beri veb dasturlash bilan shug'ullanib kelaman va asosan Re
 
 ## Faoliyatlar
 
-- 🎉 [Blog](https://01-blog.vercel.app): Men frontend dasturlash haqida maqolalar yozaman.
+- 🎉 [YouTube](https://youtube.com/@m_baxtiyrov?si=7KRGG-qoY7b5y3Wf): Men youtube sahifamda flowgorithmda dasturlash asoslarini bepul o'rganishingiz mumkin.
 - 🏆 [Portfolio](https://01-projects.vercel.app): Mening barcha ishlarimni shu yerda ko'rishingiz mumkin.
 
 ---
 
-⭐️ [Mening GitHub profilingizni kuzatib boring](https://github.com/profilingiz)!
+⭐️ [Mening GitHub profilimni kuzatib boring](https://github.com/accauntforwork)!
